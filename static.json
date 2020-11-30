@@ -2,6 +2,7 @@
   "headers": {
     "/*": {
       "X-Author": "ahalyamin"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
